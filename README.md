@@ -1,4 +1,10 @@
 # https://j0.si
+> [!IMPORTANT]
+> Future updates will be made in the j0-si/j0.si repository.\
+> After the stable version of j0.si is released, this repository will be archived and no longer be updated.
+>
+> thank you v1 for running j0.si about 20 months. i can't believe it lasted that long. <3
+
 a simple link shortener with node.js
 
 ### modules required
